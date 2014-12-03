@@ -6,7 +6,7 @@ Welcome to the government community on GitHub, a collaborative community for sha
 
 Anyone with a government email address is encouraged to participate, including national/federal, state, local, and municipal employees. That means if your email ends in `.gov`, `.gov.uk`, `ci.champaign.il.us`, etc., you are eligible. Also, you need to be human. Agency accounts and robots need not apply. 
 
-If you're curious, [the constantly updated list of approved domains](https://github.com/benbalter/gman/blob/master/lib/domains.txt) is available as part of the [GMan open source project](https://github.com/benbalter/gman).
+If you're curious, [the constantly updated list of approved domains](https://github.com/benbalter/gman/blob/master/config/domains.txt) is available as part of the [GMan open source project](https://github.com/benbalter/gman).
 
 ## How to join
 
