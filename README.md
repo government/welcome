@@ -12,7 +12,7 @@ If you're curious, [the constantly updated list of approved domains](https://git
 
 In order to join the community, we must first confirm that you are, in fact, a government employee:
 
-1. If you don't already have one, [sign up](http://github.com/join) for a GitHub account. GitHub accounts should be personal to you. Human-sounding names like @benbalter are prefered over organization-specific names like @benbalter_abc_agency.
+1. If you don't already have one, [sign up](http://github.com/join) for a GitHub account. GitHub accounts should be personal to you. Human-sounding names like @benbalter are preferred over organization-specific names like @benbalter_abc_agency.
 
 2. Ensure that your government email is associated with your account. If you already have a GitHub account, you can simply [add your government email address](https://github.com/settings/emails) to your account.
 
